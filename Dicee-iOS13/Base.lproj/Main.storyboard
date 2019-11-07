@@ -19,7 +19,7 @@
                                 <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                             </imageView>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="DiceeLogo" translatesAutoresizingMaskIntoConstraints="NO" id="VsP-Xo-lFN">
-                                <rect key="frame" x="109" y="144" width="196.00000000000006" height="128"/>
+                                <rect key="frame" x="11" y="144" width="392" height="256"/>
                             </imageView>
                             <stackView opaque="NO" contentMode="scaleToFill" alignment="top" spacing="102" translatesAutoresizingMaskIntoConstraints="NO" id="EaN-de-aSp">
                                 <rect key="frame" x="36" y="388" width="342" height="120"/>
